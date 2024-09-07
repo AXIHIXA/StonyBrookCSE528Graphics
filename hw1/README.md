@@ -87,12 +87,11 @@ Features or parts left unchecked here won't be graded!
 
 ## Usage
 
-If you have implemented extra functionalities not mentioned in the manual,
-you may specify them here.
-
-If your program failed to obey the required mouse/keyboard gestures,
-you may also specify your own setting here.
-In this case, penalties may apply.
+- If you have implemented extra functionalities not mentioned in the manual,
+  you may specify them here.
+- If your program failed to obey the required mouse/keyboard gestures,
+  you may also specify your own setting here.
+  In this case, penalties may apply.
 
 ## FAQ: Runtime error "shader file not successfully read"
 
