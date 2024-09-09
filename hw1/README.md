@@ -96,7 +96,7 @@ Features or parts left unchecked here won't be graded!
 ## FAQ: Runtime error "shader file not successfully read"
 
 If you are using CLion or PyCharm, you should set up the working directory of the project.
-First click the "hw1 | Debug" (for CLion) or "hw1" (for PyCharm) icon in the top-right corner, 
+First click the "hw1 | Debug" (for CLion) or "main" (for PyCharm) icon in the top-right corner, 
 next click "Edit Configurations...", 
 then set up the "Working directory" item to the root of your project, 
 i.e., the path to `cpp/` or `py/`
