@@ -91,7 +91,7 @@ Features or parts left unchecked here won't be graded!
   - [ ] Save to File
   - [ ] Load from File
 - [ ] 4. Extension to 3D (BONUS)
-  - [ ] Tracking ball
+  - [ ] Tracking Ball
   - [ ] One Segment of Cubic Bezier Spline
   - [ ] Piecewise C(2) Bezier Spline
   - [ ] Piecewise C(1) Bezier Spline
