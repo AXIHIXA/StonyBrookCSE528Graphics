@@ -83,18 +83,18 @@ Features or parts left unchecked here won't be graded!
   - [ ] Control Node Deletion
   - [ ] Save to File
   - [ ] Load from File
-- [ ] 3. Piecewise C(1) Cubic Bezier Spline
+- [ ] 3. Catmull-Rom Spline
   - [ ] Base Spline Creation And Display
-  - [ ] Control Node Dragging
-  - [ ] Control Node Insertion
-  - [ ] Control Node Deletion
+  - [ ] Interpolation Point Dragging
+  - [ ] Interpolation Point Insertion
+  - [ ] Interpolation Point Deletion
   - [ ] Save to File
   - [ ] Load from File
 - [ ] 4. Extension to 3D (BONUS)
   - [ ] Tracking Ball
   - [ ] One Segment of Cubic Bezier Spline
   - [ ] Piecewise C(2) Bezier Spline
-  - [ ] Piecewise C(1) Bezier Spline
+  - [ ] Catmull-Rom Spline
 
 ## Usage
 
