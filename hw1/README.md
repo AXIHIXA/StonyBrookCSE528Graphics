@@ -75,15 +75,13 @@ Features or parts left unchecked here won't be graded!
 - [ ] 4. Circle & Ellipse
   - [ ] Circle
   - [ ] Ellipse
-- [ ] 5. Polynomial Curve (BONUS PART-1)
-  - [ ] Line
-  - [ ] Quadratic Curve
-  - [ ] Cubic Curve
-- [ ] 6. Scan-conversion (BONUS PART-2)
+- [ ] 5. Scan-conversion (BONUS PART-1)
   - [ ] Triangle
   - [ ] Convex Polygon
   - [ ] Concave Polygon
   - [ ] Self-intersection detection & report
+- [ ] 6. Polygon Morphing (BONUS PART-2)
+  - [ ] Animation
 
 ## Usage
 

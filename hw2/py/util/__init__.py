@@ -1,2 +1,0 @@
-from .shader import Shader
-
